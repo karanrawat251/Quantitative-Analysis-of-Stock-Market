@@ -6,14 +6,14 @@ In the stock market, quantitative analysis is a financial methodology that analy
 
 Here, I attached dataset(CSV file) with this depository in which these are included which must needed in quantatitive analysis:
 Only Tickers of four Companies are GOOGL (Alphabet Inc.), AAPL (Apple Inc.), NFlX (Netflix Inc.), MSFT (Microsoft Corporation)
-Ticker: The stock ticker symbol.
-Date: The trading date.
-Open: The opening price of the stock for the day.
-High: The highest price of the stock during the day.
-Low: The lowest price of the stock during the day.
-Close: The closing price of the stock for the day.
-Adj Close: The adjusted closing price, which accounts for all corporate actions such as dividends, stock splits, etc.
-Volume: The number of shares traded during the day.
+1) Ticker: The stock ticker symbol.
+2) Date: The trading date.
+3) Open: The opening price of the stock for the day.
+4) High: The highest price of the stock during the day.
+5) Low: The lowest price of the stock during the day.
+6) Close: The closing price of the stock for the day.
+7) Adj Close: The adjusted closing price, which accounts for all corporate actions such as dividends, stock splits, etc.
+8) Volume: The number of shares traded during the day.
 
 We may evaluate a variety of statistical ideas, such as time series analysis, correlation analysis, descriptive statistics, and more, in order to conduct a quantitative study. We could do the following possible analyses:
 1) Descriptive Statistics: Summary statistics (mean, median, standard deviation, etc.) for each stock.
